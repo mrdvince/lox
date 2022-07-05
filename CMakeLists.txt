@@ -14,4 +14,6 @@ add_executable(lox
         src/memory.h
         src/debug.c
         src/debug.h
+        src/value.h
+        src/value.c
         )
